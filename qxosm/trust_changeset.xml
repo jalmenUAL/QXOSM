@@ -1,0 +1,19 @@
+<result>
+  <total>15281</total>
+  <row>
+    <x>0 to 10</x>
+    <y>235</y>
+  </row>
+  <row>
+    <x>10 to 100</x>
+    <y>659</y>
+  </row>
+  <row>
+    <x>100 to 1000</x>
+    <y>453</y>
+  </row>
+  <row>
+    <x>1000 to 10000</x>
+    <y>12133</y>
+  </row>
+</result>

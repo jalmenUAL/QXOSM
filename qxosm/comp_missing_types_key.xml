@@ -1,0 +1,23 @@
+<result>
+  <total>12518</total>
+  <row>
+    <x>building</x>
+    <y>75.53688141923436</y>
+  </row>
+  <row>
+    <x>highway</x>
+    <y>52.44809420514409</y>
+  </row>
+  <row>
+    <x>amenity</x>
+    <y>39.41120607787275</y>
+  </row>
+  <row>
+    <x>natural</x>
+    <y>99.4634873323398</y>
+  </row>
+  <row>
+    <x>shop</x>
+    <y>14.887640449438203</y>
+  </row>
+</result>

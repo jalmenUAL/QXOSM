@@ -1,0 +1,22 @@
+<result>
+  <row>
+    <x>building</x>
+    <y>1.3800186741363212</y>
+  </row>
+  <row>
+    <x>highway</x>
+    <y>2.724821815928107</y>
+  </row>
+  <row>
+    <x>amenity</x>
+    <y>1.5118708452041785</y>
+  </row>
+  <row>
+    <x>natural</x>
+    <y>1.086736214605067</y>
+  </row>
+  <row>
+    <x>shop</x>
+    <y>1.2303370786516854</y>
+  </row>
+</result>

@@ -1,0 +1,367 @@
+<result>
+  <total>1071</total>
+  <row>
+    <x>building name</x>
+    <y>105</y>
+  </row>
+  <row>
+    <x>building</x>
+    <y>612</y>
+  </row>
+  <row>
+    <x>addr:city addr:housenumber addr:postcode addr:street building name office website</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:city addr:housenumber addr:postcode addr:street building name phone stars website</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building historic name start_date tourism wikidata wikipedia</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building name railway wikipedia</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>amenity building name</x>
+    <y>34</y>
+  </row>
+  <row>
+    <x>building building:levels name</x>
+    <y>3</y>
+  </row>
+  <row>
+    <x>building building:levels name stars tourism</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>barrier building building:levels historic name source</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:city addr:housenumber addr:street amenity building denomination historic name religion start_date wikipedia</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building building:levels created_by name</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>aeroway building source</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>alt_name amenity building name</x>
+    <y>2</y>
+  </row>
+  <row>
+    <x>building leisure name sport</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building power</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:city addr:postcode addr:street building name phone</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>amenity building building:levels name operator</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>amenity building name religion</x>
+    <y>4</y>
+  </row>
+  <row>
+    <x>amenity building building:levels name</x>
+    <y>4</y>
+  </row>
+  <row>
+    <x>building man_made</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building name ruins</x>
+    <y>2</y>
+  </row>
+  <row>
+    <x>building ruins</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>amenity building</x>
+    <y>2</y>
+  </row>
+  <row>
+    <x>amenity building building:levels internet_access name</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building name stars tourism</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>alt_name amenity building designation name opening_hours wheelchair</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>amenity building name opening_hours operator shop source</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building shop</x>
+    <y>2</y>
+  </row>
+  <row>
+    <x>building name operator shop</x>
+    <y>3</y>
+  </row>
+  <row>
+    <x>building operator shop</x>
+    <y>2</y>
+  </row>
+  <row>
+    <x>building building:levels</x>
+    <y>22</y>
+  </row>
+  <row>
+    <x>addr:housenumber addr:street amenity building denomination name religion</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>alt_name amenity building denomination name religion</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:housenumber addr:street building name tourism</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>amenity building denomination name religion</x>
+    <y>4</y>
+  </row>
+  <row>
+    <x>addr:city addr:housenumber addr:postcode addr:street amenity building designation name opening_hours wheelchair</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building int_name name tourism wikipedia</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>amenity building int_name name</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:housenumber addr:postcode addr:street building building:levels</x>
+    <y>6</y>
+  </row>
+  <row>
+    <x>addr:housenumber building</x>
+    <y>22</y>
+  </row>
+  <row>
+    <x>building name tourism</x>
+    <y>5</y>
+  </row>
+  <row>
+    <x>building name shop</x>
+    <y>37</y>
+  </row>
+  <row>
+    <x>addr:city addr:postcode addr:street amenity building denomination name phone religion website</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:housename addr:housenumber building</x>
+    <y>12</y>
+  </row>
+  <row>
+    <x>addr:housename building</x>
+    <y>74</y>
+  </row>
+  <row>
+    <x>addr:city addr:postcode addr:street building building_1 email name phone picture picture_1 website wheelchair</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building name subject tourism</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:housename addr:postcode addr:street building</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:housename addr:housenumber addr:postcode addr:street building</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building name social_facility</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>amenity building cuisine</x>
+    <y>4</y>
+  </row>
+  <row>
+    <x>building sport</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:city addr:housenumber addr:street building building:levels name phone shop website</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building emergency name</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:city addr:housenumber addr:postcode addr:street building building:levels ele name note website</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:housenumber addr:postcode addr:street amenity building name phone website</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building layer source</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:city addr:housenumber addr:postcode addr:street building internet_access name rooms stars telephone tourism website</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:city addr:housename addr:housenumber addr:postcode addr:street building name website</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building source source:date</x>
+    <y>2</y>
+  </row>
+  <row>
+    <x>amenity building name website</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:housenumber addr:street building building:levels</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:housenumber addr:street building</x>
+    <y>34</y>
+  </row>
+  <row>
+    <x>building name website</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building name wheelchair</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:city addr:housenumber addr:postcode addr:street amenity building name phone website</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>amenity building building:levels name religion</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>amenity building religion</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:city addr:housenumber addr:postcode addr:street building building:levels description name office source</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building layer</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:city addr:housenumber addr:postcode addr:street amenity building name operator phone website</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:city addr:postcode addr:street building building:levels description name phone residential website</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:city addr:housenumber addr:postcode addr:street area building</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building social_facility</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building leisure name old_name</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>amenity building cuisine delivery name opening_hours</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building name sh</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building club</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building leisure name</x>
+    <y>2</y>
+  </row>
+  <row>
+    <x>building leisure</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building craft name wholesale</x>
+    <y>2</y>
+  </row>
+  <row>
+    <x>building name shop wholesale</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>amenity building denomination name</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:city addr:postcode addr:street amenity building contact:phone name operator</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building craft name</x>
+    <y>5</y>
+  </row>
+  <row>
+    <x>building name natural</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>building building:levels building_1 description name picture picture_1 picture_2 wheelchair</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:city addr:housenumber addr:postcode addr:street building name picture website</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:city addr:housenumber addr:postcode addr:street building name office opening_hours phone website</x>
+    <y>1</y>
+  </row>
+  <row>
+    <x>addr:city addr:housenumber addr:postcode addr:street amenity building name</x>
+    <y>1</y>
+  </row>
+</result>
